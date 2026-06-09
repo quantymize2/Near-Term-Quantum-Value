@@ -8,7 +8,7 @@ In a recent resilient routing benchmark, enterprise telecom operators faced the 
 
 A standard published baseline approach required $24\text{ qubits}$, yielding a meager $1.5\%$ simulator success rate and a completely unusable $0.2\%$ real hardware success rate. By reformulating the exact same optimization problem architecture, QuantyMize executed the workload using **4x fewer qubits** ($6\text{ qubits}$ instead of $24\text{ qubits}$) on the exact same physical hardware platform.
 
-![QuantyMize Campaign Header](assets/post-1-header.png "4x Fewer Qubits. 140x Hardware Output Jump.")
+![QuantyMize Campaign Header](post-1-header.png "4x Fewer Qubits. 140x Hardware Output Jump.")
 
 ---
 
@@ -26,7 +26,7 @@ Because our compact formulation represents complex problem architectures exponen
 
 Nothing about the physical hardware computer changed. **The only variable altered was how the constraint problem was mathematically expressed.**
 
-![QuantyMize Tabular Matrix](assets/post-1-matrix.png "Performance Comparison Matrix")
+![QuantyMize Tabular Matrix](post-1-matrix.png "Performance Comparison Matrix")
 
 ---
 
