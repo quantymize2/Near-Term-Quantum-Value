@@ -9,6 +9,7 @@ In a recent resilient routing benchmark, enterprise telecom operators faced the 
 A standard published baseline approach required $24\text{ qubits}$, yielding a meager $1.5\%$ simulator success rate and a completely unusable $0.2\%$ real hardware success rate. By reformulating the exact same optimization problem architecture, QuantyMize executed the workload using **4x fewer qubits** ($6\text{ qubits}$ instead of $24\text{ qubits}$) on the exact same physical hardware platform.
 
 <img src="post-1-header.png" width="50%">
+
 ---
 
 ## II. Algorithmic Yield & Hardware Evaluation Matrix
@@ -28,6 +29,7 @@ Nothing about the physical hardware computer changed. **The only variable altere
 <p align="center">
   <img src="post-1-matrix.png" width="50%">
 </p>
+
 ---
 
 ## III. Operational Insights for the Performance Architect
