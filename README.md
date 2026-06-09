@@ -26,7 +26,7 @@ Because our compact formulation represents complex problem architectures exponen
 Nothing about the physical hardware computer changed. **The only variable altered was how the constraint problem was mathematically expressed.**
 
 <p align="center">
-  <img src="post-1-matrix.png" width="800">
+  <img src="post-1-matrix.png" width="50%">
 </p>
 ---
 
