@@ -1,6 +1,6 @@
 # When 4x Fewer Qubits Deliver 140x Better Outcomes
 
-<img src="post-1-header.png" width="50%">
+![Header](assets/post-1-header.png)
 
 Most quantum-based optimization efforts don't have a hardware problem. They have a formulation problem.
 
