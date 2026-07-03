@@ -1,47 +1,12 @@
-# When 4x Fewer Qubits Deliver 140x Better Outcomes
+# QuantyMize — Near-Term Quantum Value
 
-<img src="post-1-header.png" width="50%">
+Technical content and benchmark data supporting QuantyMize's quantum optimization platform. QuantyMize's proprietary Quantum-Accelerating Algorithms achieve higher mapping density on today's quantum hardware — extracting more value from the same qubit budget, without waiting for next-generation QPUs.
 
-Most quantum-based optimization efforts don't have a hardware problem. They have a formulation problem.
+## Marketing Content
 
-In a recent [resilient routing benchmark](https://doi.org/10.48550/arXiv.2602.04495), telecom operators faced the challenge of balancing latency, redundancy, and failure tolerance across dynamic networks.
+- [**4x More Value Per Qubit**](Marketing/4x-more-value-per-qubit/) — Campaign benchmarking QuantyMize against a published resilient-routing baseline (arXiv:2602.04495): 4x fewer qubits, ~25x simulator improvement, 140x hardware improvement, same IonQ trapped-ion hardware.
+  - [Post 1 — When 4x Fewer Qubits Deliver 140x Better Outcomes](Marketing/4x-more-value-per-qubit/post-1-4x-fewer-qubits-140x-better-outcomes.md)
 
-A published baseline approach required 24 qubits and achieved a meager 1.5% simulator success and an unusable 0.2% hardware success.
+## Learn More
 
-The same optimization problem was reformulated by QuantyMize using **4x fewer qubits (6 instead of 24)** on the exact same hardware platform. See the full [Technical Briefing](https://quantymize.com/wp-content/uploads/2026/07/QuantyMize-Technical-Briefing-Quantum-Routing.pdf) for the complete benchmark methodology.
-
-Because the formulation represents the complex problem architecture so much more efficiently, the performance jump is staggering:
-
-| Metric | Baseline (24 qubits) | QuantyMize (6 qubits) | Improvement |
-|---|---|---|---|
-| Simulator Success | 1.5% | 41% | ~25x |
-| Hardware Success | 0.2% | 28% | 140x |
-
-$$\text{Simulator improvement} = \frac{41\%}{1.5\%} \approx 25\times$$
-
-$$\text{Hardware improvement} = \frac{28\%}{0.2\%} = 140\times$$
-
-*Source: [arXiv:2602.04495](https://doi.org/10.48550/arXiv.2602.04495) — benchmarked on IonQ trapped-ion hardware, same platform for both approaches.*
-
-Nothing about the IonQ computer changed. Only how the problem was expressed.
-
-<p align="center">
-  <img src="post-1-matrix.png" width="50%">
-</p>
-
-## What Operators Gain
-
-- **More complete representation** of real-world constraints
-- **Better resilience** to hardware noise
-- **Decision-grade output** instead of an experimental signal
-
-Fewer qubits can produce dramatically stronger outcomes because efficiency of representation determines real performance.
-
-QuantyMize focuses on extracting more value from the same hardware — not waiting for more compute.
-
-That's the difference between a proof of concept and a usable result.
-
----
-
-**Learn more:** [quantymize.com](https://quantymize.com)
-**Full technical breakdown:** [Technical Briefing PDF](https://quantymize.com/wp-content/uploads/2026/07/QuantyMize-Technical-Briefing-Quantum-Routing.pdf)
+[quantymize.com](https://quantymize.com) · [Technical Briefing (PDF)](https://quantymize.com/wp-content/uploads/2026/07/QuantyMize-Technical-Briefing-Quantum-Routing.pdf)
