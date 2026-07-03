@@ -1,6 +1,6 @@
 # When 4x Fewer Qubits Deliver 140x Better Outcomes
 
-![Header](assets/post-1-header.png)
+<img src="assets/post-1-header.png" width="50%">
 
 Most quantum-based optimization efforts don't have a hardware problem. They have a formulation problem.
 
@@ -25,7 +25,9 @@ $$\text{Hardware improvement} = \frac{28\%}{0.2\%} = 140\times$$
 
 Nothing about the IonQ computer changed. Only how the problem was expressed.
 
-![Benchmark comparison](assets/post-1-matrix.png)
+<p align="center">
+  <img src="assets/post-1-matrix.png" width="50%">
+</p>
 
 ## What Operators Gain
 
