@@ -1,4 +1,4 @@
-# QuantyMize — Near-Term Quantum Value
+# QuantyMize - Near-Term Quantum Value
 
 Technical content and benchmark data supporting QuantyMize's quantum optimization platform. QuantyMize's proprietary Quantum-Accelerating Algorithms achieve higher mapping density on today's quantum hardware — extracting more value from the same qubit budget, without waiting for next-generation QPUs.
 
