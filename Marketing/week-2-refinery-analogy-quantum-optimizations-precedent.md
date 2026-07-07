@@ -1,3 +1,5 @@
+![Refinery Cover](assets/Refinery%20Blog%20Post%20Cover%20Image.png)
+
 # Quantum Optimization's Precedent: The 1930s Refinery Breakthrough
 
 **Published:** July 2026 · QuantyMize
