@@ -1,4 +1,4 @@
-![Refinery Cover](assets/Refinery%20Blog%20Post%20Cover%20Image.png)
+<img src="assets/Refineries%20Blog%20Post%20Cover%20Image.png" width="70%" />
 
 # Quantum Optimization's Precedent: The 1930s Refinery Breakthrough
 
