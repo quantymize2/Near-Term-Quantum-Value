@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="assets/post-1-header.png" width="70%" />
+</div>
+
 # 4x Fewer Qubits, 140x Better Outcomes
 
 **Published:** July 2026 · QuantyMize
@@ -15,6 +19,10 @@
 - **6 qubits vs. 24 qubits = 4x reduction** in qubit count for the same routing problem.
 - **~25x simulator improvement** (1.5% → 41%).
 - **140x hardware improvement** (0.2% → 28%), same IonQ trapped-ion hardware.
+
+<div align="center">
+  <img src="assets/post-1-matrix.png" width="60%" />
+</div>
 
 ## Attribution
 
