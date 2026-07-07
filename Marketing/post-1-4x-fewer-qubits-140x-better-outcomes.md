@@ -21,7 +21,7 @@
 - **140x hardware improvement** (0.2% → 28%), same IonQ trapped-ion hardware.
 
 <div align="center">
-  <img src="assets/post-1-matrix.png" width="60%" />
+  <img src="assets/post-1-matrix.png" width="40%" />
 </div>
 
 ## Attribution
