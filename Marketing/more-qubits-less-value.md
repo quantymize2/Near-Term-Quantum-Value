@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="assets/post-2-header.jpg" width="70%" />
+</div>
+
 # More Qubits ≠ Better Results: The Mapping Density Benchmark
 
 **QuantyMize | Quantum Optimization Insights**
@@ -17,6 +21,10 @@ $$
 $$
 
 The same operational problem, mapped with QuantyMize's formulation, required 6 qubits versus 24 for the baseline encoding — a 4× reduction in mapping density.
+
+<div align="center">
+  <img src="assets/post-2-internal-benchmark.jpg" width="70%" />
+</div>
 
 ### Simulator result
 
