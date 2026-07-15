@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="assets/post-3.png" width="70%" />
+</div>
+
 # The Meeting Where Nobody Says It
 
 You've sat in that meeting.
