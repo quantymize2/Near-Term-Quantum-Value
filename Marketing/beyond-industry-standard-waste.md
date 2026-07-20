@@ -38,7 +38,7 @@ So the diagnostic starts with two steps that size the problem honestly, using pu
 
 **Step 1 — Total Value Locked (TVL)**
 
-$$TVL \= {Annual System Baseline Cost} x {Estimated Waste}$$ $$\%$$
+$$TVL \= {Annual System Baseline Cost} x {Estimated Waste}$$ 
 
 The baseline cost comes from public filings or sector disclosures — not internal budgets taken on faith. 
 
