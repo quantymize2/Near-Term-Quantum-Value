@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/post-1-header.png" width="70%" />
+  <img src="assets/post-4.png" width="70%" />
 </div>
 
 # Moving Beyond Industry Standard Waste
