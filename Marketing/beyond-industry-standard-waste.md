@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="assets/post-1-header.png" width="70%" />
+</div>
+
 # Moving Beyond Industry Standard Waste
 
 *How much of what is called "acceptable" is actually leaving value on the table? Most operations have never been asked the question in these terms.*
