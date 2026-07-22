@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="assets/post-5H.png" width="70%" />
+</div>
+
 # Quantum Optimization's Precedent: Gutenberg's Movable Type
 
 **Published:** July 2026 · QuantyMize
@@ -12,6 +16,10 @@
 ## Framing
 
 A process built for one-at-a-time production has a ceiling that isn't about speed — it's about what that process can represent or produce at all. Movable type didn't just copy faster; it changed the achievable scale of output.
+
+<div align="center">
+  <img src="assets/post-5a.png" width="70%" />
+</div>
 
 ## Connection to quantum optimization
 
