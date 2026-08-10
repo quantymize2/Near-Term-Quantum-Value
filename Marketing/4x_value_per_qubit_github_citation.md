@@ -1,0 +1,6 @@
+# How QuantyMize Extracts Up to 4x More Value Per Qubit — GitHub Citation Version
+*(citation-only; not cross-linked from LinkedIn or Substack)*
+
+**Technical summary:** Qubit mapping efficiency was benchmarked on a network routing optimization problem under a fixed hardware budget. A standard variable-to-qubit embedding required 24 qubits to represent the full problem; QuantyMize's mapping approach represented the same problem in 6 qubits — a reduction of up to 4x in qubits required for equivalent problem coverage. On identical hardware (IonQ trapped-ion), the reduced-qubit mapping produced approximately a 25x improvement in simulator-based solution quality and a 140x improvement in hardware execution success rate, consistent with reduced-qubit circuits accumulating proportionally less physical noise. Result independently referenced in arXiv:2602.04495 (AMD/Classiq).
+
+**Framework reference:** Value Unlock Framework v5.0 — Identify (Total Value Locked = System Baseline Cost × Estimated Waste %) → Estimate (Operationally Accessible Value = TVL × Operational Realism Factor, bounded, not asserted as recovered dollars) → Explore (backtested diagnostic on the buyer's own historical data). Qubit-efficiency benchmark is cited for solve-quality and hardware-success claims only, never for asserted recovery percentages.

@@ -1,0 +1,6 @@
+# Wright Brothers Analogy — GitHub Citation Version
+*(citation-only; not cross-linked from LinkedIn or Substack)*
+
+**Historical reference:** Samuel Langley's Aerodrome program (1898–1903), funded by the U.S. War Department and the Smithsonian Institution, pursued powered flight primarily through engine development, culminating in two failed launch attempts from a houseboat on the Potomac River in October and December 1903. Nine days after the second failure, the Wright Flyer completed the first sustained, controlled, powered flight at Kitty Hawk, North Carolina on December 17, 1903. The Wright Brothers' key technical contribution was three-axis control (roll, pitch, yaw via wing-warping and a movable rudder), developed using original wind-tunnel data the brothers generated themselves after finding published aerodynamic tables (principally Otto Lilienthal's) to be unreliable at the scale they were testing.
+
+**Applied argument:** In quantum computing, raw qubit count is often treated as the primary measure of capability. In practice, how well a problem is structured and mapped onto available qubits is frequently the more decisive factor in whether a hard optimization problem is solved well — an echo of the historical distinction between raw power and control in early aeronautics.
